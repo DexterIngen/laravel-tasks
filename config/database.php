@@ -49,7 +49,7 @@ return [
             'host' => env('DB_HOST', 'msdocs-webapp-mafb-server.mysql.database.azure.com'),
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'msdocs-webapp-mafb-database'),
-            'username' => env('DB_USERNAME', 'root'),
+            'username' => env('DB_USERNAME', 'oyerszowrm'),
             'password' => env('DB_PASSWORD', 'Cancun123*'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
